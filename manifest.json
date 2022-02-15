@@ -1,0 +1,22 @@
+{
+  "name": "Mango Leaf Disease Demo",
+  "short_name": "Mango Leaf Disease Recognizer",
+  "description": "Harumanis Mango leaf disease recognizer",
+  "start_url": "index.html",
+  "background_color": "#000000",
+  "theme_color": "#e3f1f8",
+  "display": "standalone",
+  "start_url": "/ai/leafdisease/?standalone=true",
+  "icons": [{
+      "src": "leaflogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+        "src": "leaflogo64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      }]
+
+
+}
